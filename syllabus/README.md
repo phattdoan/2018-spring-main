@@ -29,7 +29,8 @@ Understanding language is fundamental to human interaction. Our brains have evol
 
 **Office Hours:**
 * **Nithum Thain**: Thursday at noon Pacific 
-* **Other Instructors**: Immediately after the live sessions.
+* **James Kunz**: Tuesday immediately after the live sessions.
+* **Other Instructors**: Immediately after their live session.
 
 **Teaching Staff**
 * [Daniel Cer](mailto:cer@ischool.berkeley.edu)
