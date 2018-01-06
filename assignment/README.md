@@ -19,13 +19,13 @@ More specifically:
   or help debug each other's code.
 - You can get help on general programming issues, but only in a very general 
   capacity that does not relate to a specific part of the assignment. (example: 
-  "Oh, I had issues with that function crashing, but updating TensorFlow to 1.1 
+  "Oh, I had issues with that function crashing, but updating TensorFlow to 1.14 
   fixed it for me.") If in doubt, ask in a *private* question on Piazza.
 - You should not search for or use solutions to the assignment problems that you 
   find on the web. If you inadvertently come across such a solution, you 
   **must** cite it appropriately in your answer. (Bad search: "how to implement 
   GloVe in TensorFlow". Good search: "how to use `tf.variable_scope`" or "how to 
-  concatenate matricies")
+  concatenate matrices")
 - You should not use external libraries to shortcut parts of the assignment. The 
   libraries imported in the starter code should be more than sufficient, 
   although you're welcome to use standard Python libraries like `pdb` or 
