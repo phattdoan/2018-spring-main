@@ -35,6 +35,8 @@ More specifically:
 
 Please do your work in a `git` repository; you can simply clone the course repo 
 to get started. If there are any updates or fixes to the assignment, we'll 
-update the master repo and you can patch your client with `git pull`.
+update the master repo and you can patch your client with `git pull`.  Be sure
+to use the assignment submit script (see Assignment 0 for instructions) to submit.
+**Do not** make pull requests on the course repo!
 
 Be sure to **`git commit`** often to save your work!
